@@ -2,7 +2,7 @@ Before you submit an issue...
 =============================
 
 This is a repo for using GitHub's issue track to allow for the submitting of bugs, errors and corrections
-to Two Scoops of Django. Please do not submit programming questions or problems, as there are much places
+to Two Scoops of Django. Please do not submit programming questions or problems, as there are many places
 focused on answered Django questions.
 
 Where to Ask Django Questions
